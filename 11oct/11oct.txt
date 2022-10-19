@@ -1,0 +1,4 @@
+block elements
+inline elements
+how to write external css
+targetting the tag in css using class 

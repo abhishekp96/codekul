@@ -1,0 +1,80 @@
+body{
+    background-color: aquamarine;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+
+/* Using Float */
+
+
+.parentStyle{
+    padding: 15px;
+}
+
+.childOne{
+    background-color: blueviolet;
+    float: left;
+}
+
+.childTwo{
+    background-color: burlywood;
+    float: left;
+
+}
+
+.childThree{
+    background-color: brown;
+    float: left;
+
+}
+
+.childFour{
+    background-color: blue;
+    float: left;
+
+}
+
+.childFive{
+    background-color: yellow;
+    float: left;
+
+}
+
+
+/* Using inline-block */
+
+.parentDiv{
+    padding: 15px;
+}
+
+.childOneDiv{
+    background-color: blueviolet;
+   display: inline; 
+}
+
+.childTwoDiv{
+    background-color: burlywood;
+    display: inline;
+}
+
+.childThreeDiv{
+    background-color: brown;
+    display: inline;
+}
+
+.childFourDiv{
+    background-color: blue;
+   display: inline;
+
+}
+
+.childFiveDiv{
+    background-color: yellow;
+    display: inline;
+}

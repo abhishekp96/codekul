@@ -1,0 +1,22 @@
+.spanOneStyle {
+  display: block;
+  background-color: burlywood;
+}
+
+.spanTwoStyle {
+  display: block;
+  background-color: aquamarine;
+}
+
+.divOneStyle {
+  display: inline;
+  background-color: blueviolet;
+}
+
+.divImageStyle {
+  display: inline;
+}
+
+.container {
+  border: 1px solid black;
+}

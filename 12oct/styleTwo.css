@@ -1,0 +1,15 @@
+/* using classname */
+/* class names can be same */
+
+/* using id */
+/* id must be unique. It cannot be repeated */
+
+/* directly using the tag name */
+
+.spanOneStyle {
+  color: aqua;
+}
+
+#spanTagId {
+  color: brown;
+}
