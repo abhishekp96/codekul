@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.divStyle {
+  color: blueviolet;
+  background-color: burlywood;
+  border: 1px solid black;
+  /* display: inline; */
+}
+
+.containerStyle {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+
+
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+.imgContainer {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: row-reverse;
+  border: 1px solid black;
+}
+
+.imgStyle {
+  width: 100px;
+  height: 100px;
+}
+
+.imgElement {
+  border: 1px solid black;
+}

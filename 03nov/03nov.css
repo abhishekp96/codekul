@@ -1,0 +1,23 @@
+.containerStyle{
+    border: 1px solid black;
+}
+
+.spanStyle{
+    border: 1px solid black;
+    display: block;
+ 
+}
+
+
+
+.container{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    /* flex-direction: column-reverse; */
+}
+
+.childElement{
+    border: 1px solid black;
+    /* display: inline; */
+}
